@@ -1,0 +1,45 @@
+.input{
+    padding: 10px;
+    padding-left: 5px;
+    border-radius: 6px;
+    width: 500px;
+    
+}
+.label{
+    text-align: left;
+    font-weight: bold;
+    padding-right: 5px;
+}
+.container{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: aquamarine;
+    width: 50%;
+    
+}
+.input-first{
+    padding: 6px;
+}
+.input-second{
+    padding: 6px;
+}
+.input-third{
+    padding: 6px;
+}
+.sub-container{
+    display: grid;
+    grid-template-columns: 1;
+    column-gap: 10px;
+}
+.submit{
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: indianred;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    align-items: center;
+}
