@@ -22,7 +22,7 @@ const Login = () => {
     }
 
     return (
-        <div>
+        <div className="container">
             <form className="sub-container" onSubmit={handleSubmit(onSubmit)}>
                 <h2>Login Now</h2>
                 <div className="input-first">
