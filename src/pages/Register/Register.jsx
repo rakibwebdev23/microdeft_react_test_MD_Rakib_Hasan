@@ -17,7 +17,7 @@ const Register = () => {
             headers: {
                 'Content-Type': 'application/json'
             },
-            method: 'post'
+            method: 'POST'
         })
     }
     return (
